@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mim
 * 🔭 Atualmente aprofundando meus conhecimentos em modelagem de dados, estatística aplicada, SQL avançado e visualização de impacto.
-* 🎓 Formação técnica em Informática pelo Senac, Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIP e graduando em Ciência da Computação.
+* 🎓 Formação técnica em Informática pelo Senac, Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIP e graduando em Ciência da Computação na São Judas Tadeu.
 * 💡 Apaixonado por transformar grandes volumes de dados em *insights* acionáveis para apoiar decisões estratégicas (*data-driven*).
 * 💼 Experiência prévia sólida em infraestrutura e suporte de TI corporativo, unindo resiliência operacional e visão sistêmica de negócios.
 
