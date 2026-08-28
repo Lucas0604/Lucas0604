@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Lucas Cavalcante 👋</h1>
 
-<!--
-**Lucas0604/Lucas0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de <b>Ciência da Computação</b> (2ª graduação) e profissional com sólida bagagem em tecnologia corporativa, <br>
+  atualmente direcionando minha carreira para o ecossistema de <b>Análise de Dados, Business Intelligence e Analytics</b>. 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+* 🔭 Atualmente aprofundando meus conhecimentos em modelagem de dados, estatística aplicada, SQL avançado e visualização de impacto.
+* 🎓 Formação técnica em Informática pelo Senac, Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIP e graduando em Ciência da Computação.
+* 💡 Apaixonado por transformar grandes volumes de dados em *insights* acionáveis para apoiar decisões estratégicas (*data-driven*).
+* 💼 Experiência prévia sólida em infraestrutura e suporte de TI corporativo, unindo resiliência operacional e visão sistêmica de negócios.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-0052CC?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 📬 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-cavalcante-a32a03231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
