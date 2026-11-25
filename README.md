@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas Cavalcante 👋</h1>
 
 <p align="center">
-  Estudante de <b>Ciência da Computação</b> (2ª graduação) e profissional com sólida bagagem em tecnologia corporativa, <br>
+  Estudante de <b>Ciência da Computação</b> (3ª graduação) e profissional com sólida bagagem em tecnologia corporativa, <br>
   atualmente direcionando minha carreira para o ecossistema de <b>Análise de Dados, Business Intelligence e Analytics</b>. 🚀
 </p>
 
